@@ -1,2 +1,2 @@
 # Finans
- Projeto de um site de finanças
+ Projeto de um site de finanças feito em Bootstrap
