@@ -1,0 +1,31 @@
+#home {
+	background: #ffc107;
+	color: white;
+}
+.caixa{
+	padding:60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+footer p a{
+	margin: 5px 15px;
+}
+.margem-cards{
+	margin-left: 100px
+}
+.background-colorido{
+	background-color: #F2FCFE;
+}
+
+@media( max-width:576px){
+    ul li a{
+        text-align: center;	
+    }
+	ul li a:hover{
+		background: white;
+	}
+	ul li a#botaoCelular{
+		display: flex;
+		justify-content: center;
+		margin-top: 10px;
+	}
+}
